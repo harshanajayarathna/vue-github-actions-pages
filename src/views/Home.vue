@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
-    <h2>Hooray, I'm on AWS & deployed via Github + Amplify with built-in CI/CD pipeline</h2>
+    <h2>Hooray, I'm on AWS and deployed via Github + Amplify with built-in CI/CD pipeline</h2>
   </div>
 </template>
 
